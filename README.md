@@ -22,7 +22,7 @@ The objective of this project was to clean, organise, analyse, and visualise the
    
 5. The city of Yoman in WA generates the highest revenue, followed by Winthrop (32% lower than Yoman) and Roslyn (2.3% lower than Winthrop). While Roslyn and Winthrop are strong competitors, Roslyn shares the same primary produce as Yoman -- wheat flours -- but generate lower sales. This indicates that Roslyn may be an untapped potential in that department. Additionally, Winthrop could be a valuable growth opportunity for marketing drinks as their primary produce is sugarcane liquor.
    
-6. 2019 is an unfinished year for the company, but has already shown a promising start. Despite having the highest revenue for January and February alone, the overall revenue is still lower compared to 2018's performance. 
+6. 2019 is an unfinished year for the company, but has already shown a promising start. Despite having the highest revenue for January and February alone, the overall revenue is still lower compared to 2018's January-February performance. 
 
 ## Tools Used:
 - Google Colab - Python 3
