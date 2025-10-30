@@ -25,7 +25,7 @@ The objective of this project was to clean, organise, analyse, and visualise the
 6. 2019 is an unfinished year for the company, but has already shown a promising start. Despite having the highest revenue for January and February alone, the overall revenue is still lower compared to 2018's January-February performance. 
 
 ## Tools Used:
-- Google Colab - Python 3
+- Google Colab (Python 3) = to clean and manipulate datasets 
 - Power BI - to create an interactive dashboard
 - Github - to document the project
 
