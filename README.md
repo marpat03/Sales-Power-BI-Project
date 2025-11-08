@@ -34,3 +34,7 @@ Skills:
 - Data cleaning
 - Data modelling 
 - Data analysis & visualisation
+
+## Power BI dashboard preview: 
+<img width="2234" height="1306" alt="Screenshot 2025-11-08 193345" src="https://github.com/user-attachments/assets/136b9d55-dfda-4f21-967b-9db7141e0a99" />
+
